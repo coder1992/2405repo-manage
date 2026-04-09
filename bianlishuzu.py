@@ -4,6 +4,7 @@ mylist2=[]
 //使用ind获取数组的长度
 ind=len(mylist)
 i=0
+//测试冲突
 while i<ind:
     if mylist[i]%2==0:
          mylist1.append(mylist[i])
